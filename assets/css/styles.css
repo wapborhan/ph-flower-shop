@@ -290,7 +290,7 @@ section {
   margin: 0 auto;
   margin-bottom: 20px;
 }
-#footer > p {
+#footer p.credit {
   color: #ffffff66;
   text-align: center;
   font-size: 12px;
