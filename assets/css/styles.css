@@ -51,7 +51,7 @@ section {
 .main-banner .ban-left button {
   border-radius: 8px;
   background: #e55473;
-  padding: 10px 25px;
+  padding: 15px 30px;
   border: 0;
   color: #fff;
   margin-top: 20px;
@@ -153,15 +153,15 @@ section {
 }
 .main-deals .deal-left p {
   color: rgba(39, 39, 39, 0.6);
-  font-size: 18px;
+  font-size: 15px;
   font-style: normal;
-  line-height: 30px;
+  line-height: 20px;
   margin-top: 20px;
 }
 .main-deals .deal-left button {
   border-radius: 8px;
   background: #e55473;
-  padding: 15px 25px;
+  padding: 15px 30px;
   border: 0;
   color: #fff;
   margin-top: 20px;
