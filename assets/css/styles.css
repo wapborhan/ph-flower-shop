@@ -19,7 +19,7 @@ h2 {
   max-width: 1140px;
 }
 section {
-  padding: 100px 0;
+  padding: 80px 0;
 }
 /* Banner Section */
 
@@ -248,4 +248,35 @@ section {
   border-radius: 8px;
   background: #e55473;
   color: #fff;
+}
+/* Footer */
+#footer {
+  background: #0e0d0d;
+  padding: 50px 0;
+
+  text-align: center;
+}
+.foot-content h1 {
+  color: #e55473;
+  font-size: 48px;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+.foot-content h1 span {
+  color: #fff;
+}
+.foot-content p {
+  color: #ffffffe6;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 400;
+  width: 480px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+#footer p {
+  color: #ffffff66;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 400;
 }
