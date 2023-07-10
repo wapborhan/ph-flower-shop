@@ -3,3 +3,64 @@
   padding: 0;
   outline: 0;
 }
+body {
+  font-family: "Montserrat", sans-serif;
+}
+h1 {
+  font-family: "Lato", sans-serif;
+}
+h2 {
+  font-family: "Poppins", sans-serif;
+}
+.wrapper {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1140px;
+}
+
+/* Banner Section */
+
+#banner {
+  background: #e554731a;
+  height: 100vh;
+}
+.main-banner {
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  height: 100vh;
+  gap: 60px;
+}
+.main-banner .ban-left h1 {
+  color: #272727;
+  font-size: 40px;
+  font-weight: 800;
+  line-height: normal;
+}
+.main-banner .ban-left p {
+  color: rgba(39, 39, 39, 0.6);
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  line-height: 30px;
+  margin-top: 20px;
+}
+.main-banner .ban-left button {
+  border-radius: 8px;
+  background: #e55473;
+  padding: 10px 25px;
+  border: 0;
+  color: #fff;
+  margin-top: 20px;
+}
+
+.main-banner .ban-right {
+  width: 100%;
+  margin-top: 55px;
+  display: flex;
+  align-self: end;
+}
+.main-banner .ban-right img {
+  width: 100%;
+  vertical-align: middle;
+}
