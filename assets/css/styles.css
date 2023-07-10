@@ -126,6 +126,25 @@ section {
   margin-top: 20px;
 }
 
+/* Services */
+#services {
+}
+.services {
+  background: #2727270d;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-around;
+  padding: 50px 20px;
+  text-align: center;
+}
+.services .ser-item p {
+  color: rgba(39, 39, 39, 0.8);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 15px;
+}
+
 /* Hot Deal  */
 #hotdeals {
   background: #e554730d;
