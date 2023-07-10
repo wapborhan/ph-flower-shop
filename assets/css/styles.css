@@ -176,3 +176,34 @@ section {
   width: 100%;
   vertical-align: middle;
 }
+/* Instagram Section */
+#instagram {
+}
+.ins-title {
+  text-align: center;
+}
+.ins-title h1 {
+  color: #272727;
+  font-size: 40px;
+  font-weight: 800;
+}
+.ins-title p {
+  color: #27272799;
+  width: 594px;
+  margin: 15px auto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+}
+.ins-cat {
+  display: flex;
+  gap: 10px;
+  width: 100%;
+  margin-top: 40px;
+}
+.ins-cat .ins-item {
+  width: 25%;
+}
+.ins-cat .ins-item img {
+  width: 100%;
+}
