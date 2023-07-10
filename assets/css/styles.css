@@ -124,3 +124,55 @@ section {
   text-decoration-line: underline;
   margin-top: 20px;
 }
+
+/* Hot Deal  */
+#hotdeals {
+  background: #e554730d;
+}
+.main-deals {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 60px;
+  text-align: center;
+}
+.main-deals .deal-left {
+  width: 500px;
+}
+.main-deals .deal-left h1 {
+  color: #272727;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  line-height: normal;
+}
+.main-deals .deal-left h1 span {
+  color: #e55473;
+}
+.main-deals .deal-left p {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-style: normal;
+  line-height: 30px;
+  margin-top: 20px;
+}
+.main-deals .deal-left button {
+  border-radius: 8px;
+  background: #e55473;
+  padding: 15px 25px;
+  border: 0;
+  color: #fff;
+  margin-top: 20px;
+}
+
+.main-banner .ban-right {
+  width: 100%;
+  margin-top: 55px;
+  display: flex;
+  align-self: end;
+}
+.main-banner .ban-right img {
+  width: 100%;
+  vertical-align: middle;
+}
