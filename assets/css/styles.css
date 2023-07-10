@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   outline: 0;
+  border: 0;
 }
 body {
   font-family: "Montserrat", sans-serif;
@@ -206,4 +207,45 @@ section {
 }
 .ins-cat .ins-item img {
   width: 100%;
+}
+/* Leatest Deals */
+.leat-deals {
+  background: url("../images/Rectangle 9.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  padding: 100px 0;
+}
+
+.leat-deals .leat-title h1 {
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+}
+.leat-deals .leat-title p {
+  color: #27272799;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 20px;
+}
+.leat-deals .form {
+  text-align: center;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+.leat-deals .form input[type="email"] {
+  text-align: left;
+  padding: 15px 270px 15px 15px;
+  margin-right: 8px;
+  font-size: 13px;
+  border-radius: 8px;
+}
+.leat-deals .form input[type="button"] {
+  padding: 15px 30px;
+  border-radius: 8px;
+  background: #e55473;
+  color: #fff;
 }
