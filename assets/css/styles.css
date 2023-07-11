@@ -296,3 +296,55 @@ section {
   font-size: 12px;
   font-weight: 400;
 }
+/* Instagram Section */
+
+.shop-title {
+  text-align: center;
+}
+.shop-title h1 {
+  color: #272727;
+  font-size: 40px;
+  font-weight: 800;
+}
+.shop-title p {
+  color: #27272799;
+  width: 594px;
+  margin: 15px auto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+}
+.shop-cat {
+  display: flex;
+  gap: 10px;
+  width: 100%;
+  margin-top: 40px;
+}
+.shop-cat .shop-item {
+  width: 25%;
+  background: #f1f1f1;
+  padding: 20px;
+  border-radius: 8px;
+}
+.shop-cat .shop-item .shop-content {
+  text-align: center;
+}
+.shop-cat .shop-item .shop-content h1 {
+  font-size: 22px;
+  margin-top: 20px;
+}
+.shop-cat .shop-item .shop-content .btm {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.shop-cat .shop-item .shop-content .btm button {
+  background: #e55473;
+  padding: 5px 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  color: #fff;
+}
+.shop-cat .shop-item img {
+  width: 100%;
+}
