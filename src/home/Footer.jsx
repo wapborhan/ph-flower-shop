@@ -10,7 +10,7 @@ const Footer = () => {
           readable content of a page when looking at its layout.
         </p>
       </div>
-      <p className="credit">@2020-2023, FlowerShop.com. All rights reserved.</p>
+      <p className="credit">@2020-2024, FlowerShop.com. All rights reserved.</p>
     </footer>
   );
 };
