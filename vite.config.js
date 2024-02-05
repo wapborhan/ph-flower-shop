@@ -6,5 +6,6 @@ export default defineConfig({
   server: {
     port: 3000,
   },
+  base: "https://code.wapborhan.com/ph-flower-shop/",
   plugins: [react()],
 });
